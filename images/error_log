@@ -1,0 +1,273 @@
+[23-Jul-2020 12:14:22 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Jul-2020 12:14:22 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Jul-2020 12:14:22 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[23-Jul-2020 12:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Aug-2020 20:04:35 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Aug-2020 20:04:35 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Aug-2020 20:04:35 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Aug-2020 20:04:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Aug-2020 02:35:06 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Aug-2020 02:35:06 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Aug-2020 02:35:06 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Aug-2020 02:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[11-Aug-2021 12:23:38 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[11-Aug-2021 12:23:38 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[11-Aug-2021 12:23:38 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[11-Aug-2021 12:23:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Aug-2021 02:04:09 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Aug-2021 02:04:09 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Aug-2021 02:04:09 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Aug-2021 02:04:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[05-Sep-2021 03:18:13 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[05-Sep-2021 03:18:13 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[05-Sep-2021 03:18:13 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[05-Sep-2021 03:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Oct-2021 14:58:24 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Oct-2021 14:58:24 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[25-Oct-2021 14:58:24 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[25-Oct-2021 14:58:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[07-Nov-2021 02:28:25 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[07-Nov-2021 02:28:25 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[07-Nov-2021 02:28:25 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[07-Nov-2021 02:28:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Nov-2021 15:09:06 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Nov-2021 15:09:06 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Nov-2021 15:09:06 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Nov-2021 15:09:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Nov-2021 11:37:15 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Nov-2021 11:37:15 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Nov-2021 11:37:15 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Nov-2021 11:37:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[29-Nov-2021 20:40:25 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[29-Nov-2021 20:40:25 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[29-Nov-2021 20:40:25 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[29-Nov-2021 20:40:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[01-Dec-2021 10:36:49 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[01-Dec-2021 10:36:49 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[01-Dec-2021 10:36:49 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[01-Dec-2021 10:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[09-Dec-2021 10:09:40 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[09-Dec-2021 10:09:40 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[09-Dec-2021 10:09:40 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[09-Dec-2021 10:09:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[09-Dec-2021 23:31:24 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[09-Dec-2021 23:31:24 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[09-Dec-2021 23:31:24 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[09-Dec-2021 23:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[11-Dec-2021 01:46:43 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[11-Dec-2021 01:46:43 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[11-Dec-2021 01:46:43 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[11-Dec-2021 01:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Dec-2021 18:11:06 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Dec-2021 18:11:06 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Dec-2021 18:11:06 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Dec-2021 18:11:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Dec-2021 20:10:26 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Dec-2021 20:10:26 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Dec-2021 20:10:26 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Dec-2021 20:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Apr-2022 08:29:57 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Apr-2022 08:29:57 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Apr-2022 08:29:57 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Apr-2022 08:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[23-Apr-2022 12:57:08 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Apr-2022 12:57:08 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Apr-2022 12:57:08 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[23-Apr-2022 12:57:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[05-May-2022 09:48:19 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[05-May-2022 09:48:19 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[05-May-2022 09:48:19 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[05-May-2022 09:48:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[07-May-2022 08:38:50 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[07-May-2022 08:38:50 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[07-May-2022 08:38:50 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[07-May-2022 08:38:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[13-May-2022 12:00:47 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[13-May-2022 12:00:47 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[13-May-2022 12:00:47 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[13-May-2022 12:00:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[14-May-2022 06:18:51 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[14-May-2022 06:18:51 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[14-May-2022 06:18:51 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[14-May-2022 06:18:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[19-May-2022 16:44:37 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[19-May-2022 16:44:37 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[19-May-2022 16:44:37 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[19-May-2022 16:44:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[21-May-2022 19:06:19 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[21-May-2022 19:06:19 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[21-May-2022 19:06:19 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[21-May-2022 19:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[27-May-2022 19:22:18 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[27-May-2022 19:22:18 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[27-May-2022 19:22:18 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[27-May-2022 19:22:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[10-Jul-2022 13:05:56 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[10-Jul-2022 13:05:56 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[10-Jul-2022 13:05:56 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[10-Jul-2022 13:05:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[23-Sep-2022 23:43:10 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Sep-2022 23:43:10 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[23-Sep-2022 23:43:10 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[23-Sep-2022 23:43:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[27-Sep-2022 06:53:03 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[27-Sep-2022 06:53:03 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[27-Sep-2022 06:53:03 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[27-Sep-2022 06:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[02-Oct-2022 10:11:28 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[02-Oct-2022 10:11:28 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[02-Oct-2022 10:11:28 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[02-Oct-2022 10:11:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[22-Nov-2022 22:59:36 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[22-Nov-2022 22:59:36 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[22-Nov-2022 22:59:36 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[22-Nov-2022 22:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Dec-2022 02:56:13 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Dec-2022 02:56:13 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Dec-2022 02:56:13 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Dec-2022 02:56:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Dec-2022 13:04:11 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Dec-2022 13:04:11 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[08-Dec-2022 13:04:11 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[08-Dec-2022 13:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[26-Jan-2023 21:16:59 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[26-Jan-2023 21:16:59 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[26-Jan-2023 21:16:59 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[26-Jan-2023 21:16:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[28-Jan-2023 10:27:52 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[28-Jan-2023 10:27:52 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[28-Jan-2023 10:27:52 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[28-Jan-2023 10:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[01-Feb-2023 07:46:09 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[01-Feb-2023 07:46:09 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[01-Feb-2023 07:46:09 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[01-Feb-2023 07:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Feb-2023 12:48:27 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Feb-2023 12:48:27 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[15-Feb-2023 12:48:27 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[15-Feb-2023 12:48:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Feb-2023 10:39:28 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Feb-2023 10:39:28 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[18-Feb-2023 10:39:28 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[18-Feb-2023 10:39:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95
+[22-Feb-2023 18:15:18 America/New_York] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/spotglgw/public_html/images/gallery.php on line 2
+[22-Feb-2023 18:15:18 America/New_York] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/spotglgw/public_html/images/gallery.php on line 2
+[22-Feb-2023 18:15:18 America/New_York] PHP Notice:  Undefined variable: db in /home/spotglgw/public_html/images/gallery.php on line 95
+[22-Feb-2023 18:15:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/spotglgw/public_html/images/gallery.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/spotglgw/public_html/images/gallery.php on line 95

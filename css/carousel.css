@@ -1,0 +1,104 @@
+#carousel-wrapper {
+    padding-bottom: 10px;
+    position: relative;
+}
+#carousel,
+#thumbs {
+    overflow: hidden;
+}
+#carousel span,
+#carousel img,
+#thumbs a,
+#thumbs img {
+    display: block;
+    float: left;
+}
+#carousel span,
+#carousel a,
+#thumbs span,
+#thumbs a {
+    position: relative;
+}
+#carousel img,
+#thumbs img {
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#carousel span {
+    width: 100%;
+    height: 500px;
+}
+#thumbs-wrapper {
+    padding: 20px 40px;
+    position: relative;
+}
+#thumbs a {
+    border: 4px solid #ccc;
+    width: 150px;
+    height: 100px;
+    margin: 0 10px;
+    overflow: hidden;
+    -webkit-transition: border-color .5s;
+    -moz-transition: border-color .5s;
+    -ms-transition: border-color .5s;
+    transition: border-color .5s;
+}
+#thumbs a:hover,
+#thumbs a.selected {
+    border-color: #e91e63;
+}
+#prev,
+#next {
+    display: block;
+    width: 19px;
+    height: 20px;
+    margin-top: -10px;
+    position: absolute;
+    top: 50%;
+}
+#prev {
+    background-position: 0 0;
+    left: 10px;
+    background: #333;
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+}
+#next {
+    background-position: 0 0;
+    right: 10px;
+    background: #333;
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+}
+#prev:hover,
+#next:hover,
+a:hover#prev:after,
+a:hover#next:after {
+    background: #e91e63;
+}
+#prev.disabled,
+#next.disabled {
+    display: none !important;
+}
+a#prev:after {
+    position: absolute;
+    content: '';
+    background: #333;
+    width: 10px;
+    height: 4px;
+    left: 12px;
+    top: 5px;
+}
+a#next:after {
+    position: absolute;
+    content: '';
+    background: #333;
+    width: 10px;
+    height: 4px;
+    right: 12px;
+    top: 5px;
+}
